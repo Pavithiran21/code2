@@ -1,0 +1,25 @@
+body{
+    background-color:#00000080;
+    font-family:Bree Serif;
+    color: white;
+}
+.images{
+    background-image: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/codingbg.png);
+    height: 600px;
+    width:450px;
+    margin:auto;
+}
+
+.border {
+    border: 6px solid #48ee59;
+    height: 77px;
+    width: 101px;
+    padding: 41px;
+    position: absolute;
+    top: 192px;
+    font-size: larger;
+    margin-left: 110px;
+    text-align: center;
+    
+    
+}
